@@ -28,5 +28,7 @@ def find_missing(sequence):
     #soma o valor antes do erro mais o valor da progressao aritmetica
         valor_falta = sequence[index_do_erro] + valor_soma
         return valor_falta
-
+    
+"""pois é eu sei, isso ficou gigante
+Mas quem sabe se eu não mudo isso depois..."
    
